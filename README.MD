@@ -2,14 +2,6 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 ## Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -44,7 +36,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
         href="https://www.linkedin.com/in/rodrigo-alves-de-souza-5a34b815b">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
