@@ -42,4 +42,4 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ---
 
-Inpirado por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Aprendido e Inspirado por [Felipe Aguiar](https://github.com/felipeAguiarCode)
